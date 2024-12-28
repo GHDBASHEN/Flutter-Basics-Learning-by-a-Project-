@@ -1,4 +1,4 @@
-# flutter_basics
+# flutter_complete_app
 
 A new Flutter project.
 
